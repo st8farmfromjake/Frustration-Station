@@ -1,0 +1,25 @@
+body {
+    background-image: url(images/carl-raw-m3hn2Kn5Bns-unsplash.jpg);
+    background-size: cover;
+    background-color: #222222;
+
+
+}
+
+#header_title {
+    display: block;
+    background: rgba(256, 256, 256, .5);
+    width: 50%;
+    justify-content: center;
+
+}
+
+.card{
+    background: rgba(200, 200, 200, .8);
+    color: black;
+}
+
+
+#review{
+    width: 60%;
+}
